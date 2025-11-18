@@ -1,3 +1,13 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+.shrtct-mono {
+    font-family: monospace;
+}
+.shrtct-prefix {
+    opacity: 0.5;
+}
+.shrtct-indented {
+    font-family: monospace;
+    margin-left: 4em;
+}

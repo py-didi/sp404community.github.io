@@ -1,3 +1,5 @@
-[[../SP-404MK2/Приложения|Приложения]], [[Koala Sampler]]
+[[../SP-404MK2/Приложения|Приложения]], [[Koala Sampler]], [[../Сообщества|Сообщества]]
 
-Есть русскоязычное [комьюнити](https://t.me/koala_sampler) по Koala Sampler в Telegram — там можно задавать все вопросы.
+Есть русскоязычное комьюнити по Koala Sampler в Telegram: [@koala_sampler](https://t.me/koala_sampler) — там можно задавать все вопросы.
+
+

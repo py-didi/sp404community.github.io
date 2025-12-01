@@ -7,8 +7,9 @@
 [Обучающее видео](https://www.youtube.com/watch?v=gFNltgWBSmA) (Ru) от Руслана [Inbx Muziq](https://t.me/inboxmusicproject) по работе SP-404MK2 с внешней MIDI-клавиатурой (по MIDI [[Провода|кабелю]]).
 
 #### USB MIDI клавиатуры
-Не любая USB миди-клавиатура подойдёт. Надо экспериментировать.
+Не любая USB миди-клавиатура подойдёт, надо экспериментировать.
 
-Не работает: Ableton Move
-Работает: Novation LaunchKey MK3
+Например, **не работает** Ableton Move.
+
+Работает [Novation LaunchKey MK3](https://novationmusic.com/launchkey-mk3)
 
